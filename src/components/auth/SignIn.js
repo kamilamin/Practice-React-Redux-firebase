@@ -23,7 +23,7 @@ class SignIn extends Component {
                 <input type="password" id="password" onChange={this.handleChange} />
             </div>
             <div>
-                <button class="btn pink lighten-1 z-depth-0">Login</button>
+                <button className="btn pink lighten-1 z-depth-0">Login</button>
             </div>
           </form>
       </div>
